@@ -163,6 +163,7 @@ main button {
     background: var(--purple);
     color: var(--white);
     width: 100%;
+
     font-size: 18px;
     font-weight: 500;
     transition: background 0.3s;
@@ -239,7 +240,7 @@ main button:hover {
     .pontuacao strong {
         font-size: 144px;
     }
-    
+
     .pontuacao p {
         font-size: 24px;
     }
